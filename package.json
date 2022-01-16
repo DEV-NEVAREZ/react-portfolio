@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dev-nevarez.github.io/git push -f origin master",
-  "name": "portfolio_nextjs",
+  "homepage": "http://DEV-NEVAREZ.github.io/react-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
